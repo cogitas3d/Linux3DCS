@@ -31,39 +31,39 @@ No entanto, como explanado anteriormente, esse sistema é desenvolvido por pouca
 
 ## Projetos que utilizam o Linux 3DCS
 
-* ##### **Curso de Computação Gráfica 3D Aplicada às Ciências da Saúde**
+* #### **Curso de Computação Gráfica 3D Aplicada às Ciências da Saúde**
     + Curso voltado à especialistas das áreas da saúde humana e veterinária.
     + Parceiro: Dr. Everton da Rosa (CRO-DF 2232).
 
-* ##### **Curso de Planejamento de Cirurgia Ortognática 3D Digital**
+* #### **Curso de Planejamento de Cirurgia Ortognática 3D Digital**
     + Curso voltado à especialistas da área de cirurgia bucomaxilofacial.
     + Parceiro: Dr. Everton da Rosa (CRO-DF 2232).
 
-* ##### **OrtogOnBlender**
+* #### **OrtogOnBlender**
     + Addon para planejamento de cirurgia ortognática com importação automática de DICOM em 3D, digitalização 3D a partir de fotos e dinâmica experimental de tecidos moles.
     + Parceiro: Dr. Everton da Rosa (CRO-DF 2232).
 
-* ##### **RhinOnBlender**
+* #### **RhinOnBlender**
     + Addon para planejamento de rinoplastia com digitalização 3D a partir de fotos, ferramentas de medições anatômicas, ferramentas para escultura digital, comparação de pré e pós-cirúrgico.
     + Parceiros: Dr. Pablo Maricevich (CRM-PE 15.169 / RQE 2301 e 2302), Dr. Rodrigo Dornelles (CRM-SP: 95222, CRM-RS: 19499) e Dr. Everton da Rosa (CRO-DF 2232).
 
-* ##### **Sistema de Setup Virtual e Surgery First Approach**
+* #### **Sistema de Setup Virtual e Surgery First Approach**
     + Addon para setup virtual e cirurgia ortognática com benefício antecipado.
     + Parceiro: Dr. Graziane Olimpo (CRO-PA 3739)
 
-* ##### **Próteses Faciais Humanas**
+* #### **Próteses Faciais Humanas**
     + Reabilitação facial de pacientes sobreviventes de câncer, acidentes ou alterações congênitas.
     + Parceiros: Universidade Paulista UNIP, ONG Mais Identidade, Dr. Rodrigo Salazar, Dr. Luciano Dib, Dra. Rosie Seelaus.
 
-* ##### **Reconstrução Facial 3D Digital**
+* #### **Reconstrução Facial 3D Digital**
     + Ferramentas para reconstrução facial 3D digital de inúmeros personagens históricos e religiosos.
     + Parceiros: Museu de Antropologia da Universidade de Pádua, EBRAFOL, Dr. Marcos Paulo Salles Machado, Dr. Paulo Miamoto, Universidad Inca Garcilaso de la Vega, UNEMAT, ABHRAGI.
 
-* ##### **Próteses Veterinárias**
+* #### **Próteses Veterinárias**
     + Próteses veterinárias de bicos e cascos.
     + Parceiros: Dr. Rodrigo Rabello, Dr. Roberto Fecchio, Dr. Matheus Rabello, Dr. Sergio Camargo, Dr. Paulo Miamoto e Dr. Lorenzo Crosta.
 
-* ##### **Sistema de Análise de Acidentes de Trânsito**
+* #### **Sistema de Análise de Acidentes de Trânsito**
      + Sistema de reconstrução de cenas e acidentes de trânsito com suporte a gráficos 3D e dinâmica do sinistro.
      + Parceiros: Aleksandro Montanha, Daniel Ludwig, Secretaria Municipal de Trânsito de Sinop-MT, POLITEC Sinop, Prefeitura Municipal d Ivaiporã-PR.
  
@@ -72,112 +72,112 @@ A distribuição é baseada no **[Ubuntu Netboot](https://help.ubuntu.com/commun
 
 Seguem abaixo os pacotes com a descrição e alternativas para o seu sistema:
 
-* ##### **Xubuntu Minimal Desktop**
+* #### **Xubuntu Minimal Desktop**
     + Gerenciador de janelas XFCE, leve e robusto.
     + Motivo: Possui a leveza de sistemas pequenos como o LXDE e as facilidades de um sistema grande como o GNOME.
     + Windows e MacOSX já contam com gerenciadores de janelas nativos.
 
-* ##### **Blender**
+* #### **Blender**
     + Modelagem e animação 3D, disponível em: https://www.blender.org
     + Motivo: Leve, poderoso, importa e exporta uma série de extensões e permite o uso de scripts através de Python.
     + Roda em: Windows, MacOSX e Linux.
 
-* ##### **Cork** (compilado)
+* #### **Cork** (compilado)
     + Booleanas complexas, disponível em: https://github.com/gilbo/cork
     + Motivo: Resolver as deficiências do sistema nativo do Blender (e de outros programas semelhantes) que pecam muito ao trabalharem com malhas complexas provindas de tomografias computadorizadas.
     + Roda em: Windows, MacOSX e Linux.
 
-* ##### **OpenMVG** (compilado)
+* #### **OpenMVG** (compilado)
     + Fotogrametria. Tracking de cameras e geração de nuvem esparsa de pontos, disponível em: https://github.com/openMVG/openMVG
     + Motivo: Solução via linha de comando, o que permite o acesso através de Python script. Além dessa facilidade os resultados são muito rápidos quando confrontados com outros programas livres da mesma categoria.
     + Roda em: Windows, MacOSX e Linux.
 
-* ##### **OpenMVS** (compilado)
+* #### **OpenMVS** (compilado)
     + Fotogrametria. Geração de nuvens densas de pontos, geração de malha 3D e texturização, disponível em: https://github.com/cdcseacave/openMVS/
     + Motivo: Assim como o OpenMVS permite o uso através de linha de comando, além da qualidade dos resultados.
     + Roda em: Windows, MacOSX e Linux.
 
-* ##### **MeshLab**
+* #### **MeshLab**
     + Editor de arquivos 3D, disponível em: http://www.meshlab.net/#download
     + Motivo: Conversão de arquivos em linha de comando (via meshlabserver) e alternativa robusta para aplicação de filtros em malhas 3D.
     + Roda em: Windows, MacOSX e Linux.
 
-* ##### **Dicom2Mesh** (compilado)
+* #### **Dicom2Mesh** (compilado)
     + Reconstrução de tomografias computadorizadas (DICOM) em 3D, disponível em: https://github.com/AOT-AG/DicomToMesh
     + Motivo: Permite o uso através de linha de comando, os resultados são excelentes, mesmo se comparados a sistemas com interface gráfica.
     + Roda em: MacOSX e Linux. Apresenta problema na compilação para o Windows.
 
-* ##### **Slicer**
+* #### **Slicer**
     + Visualização e reconstrução 3D de tomografias computadorizadas, disponível em: http://download.slicer.org/
 Motivo: Ampla gama de recursos relacionados a edição de arquivos DICOM.
 Roda em: Windows, MacOSX e Linux.
 
-* ##### **CloudCompare**
+* #### **CloudCompare**
     + Comparação gráfica e tridimensional de malhas, disponível em: http://www.danielgm.net/cc/release/
     + Motivo: Permite ao usuário gerar gráficos de comparação entre malhas, principalmente Pós Cirúrgico Real vs. Pós Cirúrgico Digital.
     + Roda em: Windows, MacOSX e Linux.
 
-* ##### **InVesalius**
+* #### **InVesalius**
     + Visualização e reconstrução 3D de tomografias computadorizadas, disponível em (com arquivos de exemplo): https://softwarepublico.gov.br/social/invesalius/download
     + Motivo: Reconstrução 3D mais fácil quando comparada a metodologia do Slicer 3D.
     + Roda em: Windows, MacOSX e Linux.
 
-* ##### **Google Chrome**
+* #### **Google Chrome**
     + Browser de internet, disponível em: https://www.google.com.br/chrome/browser/desktop/index.html
     + Motivo: É o mais popular dos browsers da atualidade e conta com um instalador para o Linux.
     + Roda em: Windows, MacOSX e Linux.
 
-* ##### **Gimp**
+* #### **Gimp**
     + Editor de imagem, disponível em: https://www.gimp.org/downloads/
     + Motivo: É o mais poderoso dentre os editores de imagem livres.
     + Roda em: Windows, MacOSX e Linux.
 
-* ##### **SimpleScreenRecorder**
+* #### **SimpleScreenRecorder**
     + Gravador de tela do sistema Linux, disponível em: http://www.maartenbaert.be/simplescreenrecorder/
     + Motivo: Leve, fácil de usar, com várias opções de configuração. É uma ótima ferramenta, tanto para o professor que vai criar as suas aulas, quanto para o aluno que pode gravar as suas.
     + Para o Windows use o software gratuito [aTube Catcher](http://www.atube.me/pt-br/) e no MacOSX você pode capturar a tela com o QuickTime.
 
-* ##### **Gnome-Screenshot**
+* #### **Gnome-Screenshot**
     + Captura de tela.
     + Motivo: É o mais intuitivo dos programas livres disponíveis.
     + Windows e MacOSX já contam com captura de tela nativa.
 
-* ##### **Inkscape**
+* #### **Inkscape**
     + Editor de gráficos vetoriais, disponível em: https://inkscape.org/pt-br/baixar/
     + Motivo: Leve, trabalha com vários formatos de arquivos, abre PDFs e pode ser usado em conjunto com o Blender.
     + Roda em: Windows, MacOSX e Linux.
 
-* ##### **Kdenlive**
+* #### **Kdenlive**
     + Editor de vídeo, disponível em: https://kdenlive.org/download/
     + Motivo: Ao mesmo tempo que é simples de se trabalhar, o Kdenlive oferece uma grande número de ferramentas, permitindo ao usuário fazer trabalhos com qualidade profissional. Para os alunos é uma boa ferramenta para edição e compressão de aulas gravadas.
     + Roda em: Windows, MacOSX e Linux.
 
-* ##### **Nautilus**
+* #### **Nautilus**
     + Gerenciador de arquivos.
     + Motivo: Prático e poderoso, oferece facilidades que o destacam em relação aos demais gerenciadores livres, como o amplo suporte a formatos de arquivos e montagem de partições.
    + Windows e MacOSX já contam com gerenciadores de arquivos nativos.
 
-* ##### **Vlc**
+* #### **Vlc**
     + Player de vídeo.
     + Motivo: Simples e poderoso, abre os mais diversos formatos de vídeo.
     + Roda em: Windows, MacOSX e Linux.
 
-* ##### **Gedit**
+* #### **Gedit**
     + Editor de texto.
     + Motivo: Oferece coloração de sitaxe, o que é excelente ao se editar scripts.
     + Windows e MacOSX já contam com editores nativos.
 
-* ##### **Eye of Gnome**
+* #### **Eye of Gnome**
     + Visualizador de imagens.
     + Motivo: Fácil de usar, oferece uma interface limpa e visualização com antializasing ativo.
     + Windows e MacOSX já contam com visualizadores de imagens nativos.
 
-* ##### **Mozilla Firefox**
+* #### **Mozilla Firefox**
     + Browser de internet.
     + Motivo: Alternativa ao Chrome.
     + Roda em: Windows, MacOSX e Linux.
 
-* ##### **File-Roller**
+* #### **File-Roller**
     + Pacote com suporte a compactação e descompactação de vários formatos de arquivos.
     + Motivo: Ativa a possibilidade de compactar e descompactar arquivos diretamente pelo Nautilus.
     + Escolha a sua opção de descompactador para Windows e MacOSX, dentre as várias disponíveis ne internet.
@@ -210,8 +210,8 @@ Além dos programas compilador e dos addons desenvolvidos pelas equipes, você e
     + Aborda desde a computação gráfica 3D básica até o funcionamento de técnicas relacionadas a fotogrametria, reconstrução de tomografias computadorizada e reconstrução facial forense.
     + ISBN 978-85-420-0748-0
     
-* ##### TEMPLATE_basico.blend
+* ##### **TEMPLATE_basico.blend**
     + Arquivo utilizado para o planejamento de cirurgia ortognática contendo os modelos básicos.
 
-* ##### TEMPLATE_completo.blend
+* ##### **TEMPLATE_completo.blend**
     + Arquivo utilizado para o planejamento de cirurgia ortognática contendo os modelos de todo o processo.
