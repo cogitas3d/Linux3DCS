@@ -34,6 +34,7 @@ No entanto, como explanado anteriormente, esse sistema é desenvolvido por pouca
 * #### **Curso de Computação Gráfica 3D Aplicada às Ciências da Saúde**
     + Curso voltado à especialistas das áreas da saúde humana e veterinária.
     + Parceiro: Dr. Everton da Rosa (CRO-DF 2232).
+    + Referência: http://www.techtudo.com.br/noticias/noticia/2016/07/fisl-17-software-livre-ajuda-criar-proteses-3d-para-humanos-e-animais.html
 
 * #### **Curso de Planejamento de Cirurgia Ortognática 3D Digital**
     + Curso voltado à especialistas da área de cirurgia bucomaxilofacial.
@@ -42,10 +43,12 @@ No entanto, como explanado anteriormente, esse sistema é desenvolvido por pouca
 * #### **OrtogOnBlender**
     + Addon para planejamento de cirurgia ortognática com importação automática de DICOM em 3D, digitalização 3D a partir de fotos e dinâmica experimental de tecidos moles.
     + Parceiro: Dr. Everton da Rosa (CRO-DF 2232).
+    + Referência: https://www.blendernation.com/2017/09/17/digital-3d-orthognathic-surgery-ortogonblender-addon/
 
 * #### **RhinOnBlender**
     + Addon para planejamento de rinoplastia com digitalização 3D a partir de fotos, ferramentas de medições anatômicas, ferramentas para escultura digital, comparação de pré e pós-cirúrgico.
     + Parceiros: Dr. Pablo Maricevich (CRM-PE 15.169 / RQE 2301 e 2302), Dr. Rodrigo Dornelles (CRM-SP: 95222, CRM-RS: 19499) e Dr. Everton da Rosa (CRO-DF 2232).
+    + Referência: https://www.blendernation.com/2017/09/23/rhinoplasty-planning-rhinonblender-add/
 
 * #### **Sistema de Setup Virtual e Surgery First Approach**
     + Addon para setup virtual e cirurgia ortognática com benefício antecipado.
@@ -54,18 +57,31 @@ No entanto, como explanado anteriormente, esse sistema é desenvolvido por pouca
 * #### **Próteses Faciais Humanas**
     + Reabilitação facial de pacientes sobreviventes de câncer, acidentes ou alterações congênitas.
     + Parceiros: Universidade Paulista UNIP, ONG Mais Identidade, Dr. Rodrigo Salazar, Dr. Luciano Dib, Dra. Rosie Seelaus.
+    + Referência: http://www.brasil.gov.br/ciencia-e-tecnologia/2017/01/paciente-recebe-implante-facial-desenvolvido-por-centro-vinculado-ao-governo
 
 * #### **Reconstrução Facial 3D Digital**
     + Ferramentas para reconstrução facial 3D digital de inúmeros personagens históricos e religiosos.
     + Parceiros: Museu de Antropologia da Universidade de Pádua, EBRAFOL, Dr. Marcos Paulo Salles Machado, Dr. Paulo Miamoto, Universidad Inca Garcilaso de la Vega, UNEMAT, ABHRAGI.
+    + Referências:
+        + https://seuhistory.com/noticias/artista-brasileiro-desenha-rosto-da-mulher-dos-quatro-broches
+        + http://aventurasnahistoria.uol.com.br/noticias/historia-hoje/na-erupcao-de-pompeia-a-cabeca-deste-homem-explodiu.phtml#.WjFahx2nFhE
+        + http://aventurasnahistoria.uol.com.br/noticias/historia-hoje/esta-e-a-face-de-um-brasileiro-de-10-mil-anos.phtml
+        + http://aventurasnahistoria.uol.com.br/noticias/historia-hoje/sacerdotisa-peruana-de-1700-anos-e-reconstruida-digitalmente-por-brasileiro.phtml
+        + http://www.mzv.cz/brasilia/pt/atualidades/vystava_byli_v_celakovicich_upiri.html
+        + http://g1.globo.com/fantastico/videos/t/edicoes/v/brasileiros-reconstituem-rosto-que-pode-ser-de-maria-madalena/4332743/
 
 * #### **Próteses Veterinárias**
     + Próteses veterinárias de bicos e cascos.
     + Parceiros: Dr. Rodrigo Rabello, Dr. Roberto Fecchio, Dr. Matheus Rabello, Dr. Sergio Camargo, Dr. Paulo Miamoto e Dr. Lorenzo Crosta.
+    + Referências:
+        + http://g1.globo.com/fantastico/videos/t/edicoes/v/jabuti-recebe-protese-de-casco-feita-em-impressora-3d-apos-incendio/4316900/
+        + http://future.arte.tv/fr/animaux-bioniques
+        + http://www.insideedition.com/headlines/19489-worlds-first-goose-to-receive-3d-printed-beak-hatches-2-goslings-after-finding-true-love
 
 * #### **Sistema de Análise de Acidentes de Trânsito**
      + Sistema de reconstrução de cenas e acidentes de trânsito com suporte a gráficos 3D e dinâmica do sinistro.
      + Parceiros: Aleksandro Montanha, Daniel Ludwig, Secretaria Municipal de Trânsito de Sinop-MT, POLITEC Sinop, Prefeitura Municipal d Ivaiporã-PR.
+     + Referência: http://www.3dprinting.com.br/entrevistas/ivaipora-no-parana-ganha-sistema-de-analise-de-acidentes-baseado-em-tecnologia-3d/
  
 ## Pacotes e alternativas para outros SOs
 A distribuição é baseada no **[Ubuntu Netboot](https://help.ubuntu.com/community/Installation/MinimalCD)** por conta de sua leveza, poder e suporte, mas em tese pode ser montada a partir de outras distros como o Arch, Fedora, Suse, etc. Além disso, com exceção do pacote Dicom2Mesh que apresenta poblemas de compilação no Winwos, todos os outros, ou têm um binário instalável nos demais sistemas operacionais, ou oferecem o código-fonte comprovadamente compilável no Windows, MacOSX e Linux.
@@ -81,6 +97,26 @@ Seguem abaixo os pacotes com a descrição e alternativas para o seu sistema:
     + Modelagem e animação 3D, disponível em: https://www.blender.org
     + Motivo: Leve, poderoso, importa e exporta uma série de extensões e permite o uso de scripts através de Python.
     + Roda em: Windows, MacOSX e Linux.
+        + Addon que acompanham:
+            + ##### OrtogOnBlender
+                + Planejamento de cirurgia ortognática.
+                + Conversão automática de arquivos DICOM em 3D.
+                + Digitalização 3D por fotos (fotogrametria) em um click.
+                + Dinâmica de mole experimental.
+                + Disponível em: https://github.com/cogitas3d/OrtogOnBlender
+                + Desenvolvido por Cícero Moraes e Everton da Rosa.
+            + ##### Cork on Blender
+                + Booleanas complexas com o Cork.
+                + Disponível em: https://github.com/dfelinto/cork-on-blender
+                + Desenvolvido por [Dalai Felinto](https://github.com/dfelinto/), Cícero Moraes e Everton da Rosa.
+            + ##### Cut Mesh
+                + Corte de malhas interativo ponto-a-ponto.
+                + Disponível aqui: https://github.com/patmo141/cut_mesh
+                + Desenvolvido por [Patrick Moore](https://github.com/patmo141/)
+            + ##### Object Alignment
+                + Alinhamento de malhas 3D ponto-a-ponto e por ICP.
+                + Disponível em: https://github.com/patmo141/object_alignment
+                + Desenvolvido por: + Desenvolvido por [Patrick Moore](https://github.com/patmo141/)
 
 * #### **Cork** (compilado)
     + Booleanas complexas, disponível em: https://github.com/gilbo/cork
@@ -183,21 +219,22 @@ Roda em: Windows, MacOSX e Linux.
     + Escolha a sua opção de descompactador para Windows e MacOSX, dentre as várias disponíveis ne internet.
 
 ## Como baixar
-A imagem ISO foi comprimida em vários arquivos .7z:
+A imagem ISO de 5.9 GB foi comprimida em vários arquivos .7z:
 
-Arquivo1
-Arquivo2
-Arquivo3
-Arquivo4
-Arquivo5
+* [Arquivo 1](https://mega.nz/#!mJZCgIJa!0irfE7FoD1bLCWQIz865Xt6f2oe1vchXMrUyKEzE9Ac)
+* [Arquivo 2](https://mega.nz/#!nVxB1JYA!z6VF8AAelc_S8e3Frf7JQ8QDxJJI9Zb6uqvxa4Q9CTA)
+* [Arquivo 3](https://mega.nz/#!7UBTFDAD!QnBQOyks17kejlHc52JIPywpuIMI6RP9thTFV8fQ5gY)
+* [Arquivo 4](https://mega.nz/#!HA5GmTIa!mAGYq7u0C-I3N-0uAfDATtouxHp7J5JB0GUgZzTeo08)
+* [Arquivo 5]
+* [Arquivo 6]
 
-1) Baixe e descompacte utilizando um programa compatível com essa extensão.
+1) Baixe e descompacte utilizando um programa compatível com essa extensão (.7z).
 2) Com o auxílio de um programa de clonagem de dados, copie o conteúdo do arquivo ISO para um pendrive.
 3) Configure a BIOS do seu computador para fazer o boot em modo legacy e coloque o pendrive como primeiro elemento na ordem de inicialização.
 
 ## Materiais disponíveis
 
-Além dos programas compilador e dos addons desenvolvidos pelas equipes, você encontrará dentro do diretório **Documentos** as seguintes pastas e arquivos:
+Além dos programas compilados e dos addons desenvolvidos pelas equipes, você encontrará dentro do diretório **Documentos** as seguintes pastas e arquivos:
 
 * ##### **TOMOGRAFIA**
     + Diretório contendo uma série de arquivos DICOM para reconstrução 3D automática.
@@ -206,12 +243,13 @@ Além dos programas compilador e dos addons desenvolvidos pelas equipes, você e
     + Diretório contendo uma série de fotografias para a digitalização 3D baseada em fotogrametria.
 
 * ##### **LIVRO.pdf**
-    + Livro eletrônico gratuito entitulado "Manual de Reconstrução Facial 3D Digital" de Cícero Moraes e Paulo Miamoto.
+    + Livro eletrônico gratuito intitulado "Manual de Reconstrução Facial 3D Digital" de Cícero Moraes e Paulo Miamoto.
     + Aborda desde a computação gráfica 3D básica até o funcionamento de técnicas relacionadas a fotogrametria, reconstrução de tomografias computadorizada e reconstrução facial forense.
-    + ISBN 978-85-420-0748-0
+    + ISBN 978-85-420-0748-0.
     
 * ##### **TEMPLATE_basico.blend**
     + Arquivo utilizado para o planejamento de cirurgia ortognática contendo os modelos básicos.
 
 * ##### **TEMPLATE_completo.blend**
     + Arquivo utilizado para o planejamento de cirurgia ortognática contendo os modelos de todo o processo.
+
