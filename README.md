@@ -229,11 +229,11 @@ A imagem ISO de 5.9 GB foi comprimida em vários arquivos .7z:
 | **MEGA** | **Download direto** |
 | ---- | ---- | 
 | [Arquivo 1 de 6](https://mega.nz/#!mJZCgIJa!0irfE7FoD1bLCWQIz865Xt6f2oe1vchXMrUyKEzE9Ac) | [Arquivo 1 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.001) | 
-|[Arquivo 2 de 6](https://mega.nz/#!nVxB1JYA!z6VF8AAelc_S8e3Frf7JQ8QDxJJI9Zb6uqvxa4Q9CTA) |  |
-|[Arquivo 3 de 6](https://mega.nz/#!7UBTFDAD!QnBQOyks17kejlHc52JIPywpuIMI6RP9thTFV8fQ5gY) |  | 
-|[Arquivo 4 de 6](https://mega.nz/#!HA5GmTIa!mAGYq7u0C-I3N-0uAfDATtouxHp7J5JB0GUgZzTeo08) |  | 
-|[Arquivo 5 de 6](https://mega.nz/#!OZQzSI4C!XykjZpCAf422dVmMTFh6XMUFr6MGRQ7FrJ2Ag_40hx0) |  |
-|[Arquivo 6 de 6](https://mega.nz/#!nMBFzBhQ!xCJbwQLibP5YORrc8ikYDe-xd_6hA7RT3OyL1UzAQ6I) |  |
+|[Arquivo 2 de 6](https://mega.nz/#!nVxB1JYA!z6VF8AAelc_S8e3Frf7JQ8QDxJJI9Zb6uqvxa4Q9CTA) | Em breve |
+|[Arquivo 3 de 6](https://mega.nz/#!7UBTFDAD!QnBQOyks17kejlHc52JIPywpuIMI6RP9thTFV8fQ5gY) | Em breve | 
+|[Arquivo 4 de 6](https://mega.nz/#!HA5GmTIa!mAGYq7u0C-I3N-0uAfDATtouxHp7J5JB0GUgZzTeo08) | Em breve | 
+|[Arquivo 5 de 6](https://mega.nz/#!OZQzSI4C!XykjZpCAf422dVmMTFh6XMUFr6MGRQ7FrJ2Ag_40hx0) | Em breve |
+|[Arquivo 6 de 6](https://mega.nz/#!nMBFzBhQ!xCJbwQLibP5YORrc8ikYDe-xd_6hA7RT3OyL1UzAQ6I) | Em breve |
 
 1) Baixe e descompacte utilizando um programa compatível com essa extensão (.7z).
 2) Com o auxílio de um programa de clonagem de dados, copie o conteúdo do arquivo ISO para um pendrive.
