@@ -1,3 +1,4 @@
+![GitHub Logo](http://www.ciceromoraes.com.br/ups/Linux3DCS_2.jpg)
 # Linux 3DCS
 
 Sistema Linux voltado ao uso da computação gráfica 3D para às áreas da saúde humana, veterinária e perícia.
@@ -7,9 +8,13 @@ Trabalho com o Linux como principal sistema desde 2005. Nesse longo período tiv
 
 Uma das característica mais interessantes do Linux é a sua flexibilidade, ele se adequa a várias situações e uma das mais legais é a possibilidade de instalarmos ele em um pendrive com suporte a escrita, isso significa que você pode levar o sistema no seu bolso para qualquer lugar, plugar o dispositivo em qualquer computador e usufruir de um Linux completo à sua disposição.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/h-bFvhLp-8g/0.jpg)](https://www.youtube.com/watch?v=h-bFvhLp-8g)
+
 Eu sempre andei com um desses, seja por necessidade em caso de quebra no sistema, ou mesmo por poder usar computadores mais potentes que o meu modesto notebook, que levo comigo em minha viagens. Se o sistema quebrasse, bastaria dar um pequeno comando que o conteúdo do pendrive fosse copiado para o HD e em poucos minutos eu teria um sistema rodando nele. Se eu estivesse fazendo algum trabalho que demandasse melhor processamento, bastaria plugar o pendrive um uma máquina mais potente e em pouco tempo lá estava eu trabalhando sem a dor de cabeça das limitações anteriores.
 
 Profissionalmente eu trabalho com computação gráfica 3D, mais precisamente, com desenvolvimento de metodologias para os campos da saúde humana, veterinária e arqueologia. Além disso, ministro cursos onde ensino técnicas de planejamento cirúrgico, digitalização 3D e confecção de prótese, dentre outras coisas.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/i17Wod4k-o4/0.jpg)](https://www.youtube.com/watch?v=i17Wod4k-o4)
 
 Nos últimos meses, em face a grande demanda de ferramentas mais simples para usuários iniciantes, decidi conjuntamente com uma série de especialistas, desenvolver addons em Python script no Blender, criando alternativas simplificadas e acessíveis para aqueles que estão começando com a modelagem e animação 3D.
 
@@ -221,12 +226,14 @@ Roda em: Windows, MacOSX e Linux.
 ## Como baixar
 A imagem ISO de 5.9 GB foi comprimida em vários arquivos .7z:
 
-* [Arquivo 1](https://mega.nz/#!mJZCgIJa!0irfE7FoD1bLCWQIz865Xt6f2oe1vchXMrUyKEzE9Ac)
-* [Arquivo 2](https://mega.nz/#!nVxB1JYA!z6VF8AAelc_S8e3Frf7JQ8QDxJJI9Zb6uqvxa4Q9CTA)
-* [Arquivo 3](https://mega.nz/#!7UBTFDAD!QnBQOyks17kejlHc52JIPywpuIMI6RP9thTFV8fQ5gY)
-* [Arquivo 4](https://mega.nz/#!HA5GmTIa!mAGYq7u0C-I3N-0uAfDATtouxHp7J5JB0GUgZzTeo08)
-* [Arquivo 5]
-* [Arquivo 6]
+
+* [Arquivo 1 de 6](https://mega.nz/#!mJZCgIJa!0irfE7FoD1bLCWQIz865Xt6f2oe1vchXMrUyKEzE9Ac)
+* [Arquivo 2 de 6](https://mega.nz/#!nVxB1JYA!z6VF8AAelc_S8e3Frf7JQ8QDxJJI9Zb6uqvxa4Q9CTA)
+* [Arquivo 3 de 6](https://mega.nz/#!7UBTFDAD!QnBQOyks17kejlHc52JIPywpuIMI6RP9thTFV8fQ5gY)
+* [Arquivo 4 de 6](https://mega.nz/#!HA5GmTIa!mAGYq7u0C-I3N-0uAfDATtouxHp7J5JB0GUgZzTeo08)
+* [Arquivo 5 de 6](https://mega.nz/#!OZQzSI4C!XykjZpCAf422dVmMTFh6XMUFr6MGRQ7FrJ2Ag_40hx0)
+* [Arquivo 6 de 6](https://mega.nz/#!nMBFzBhQ!xCJbwQLibP5YORrc8ikYDe-xd_6hA7RT3OyL1UzAQ6I)
+
 
 1) Baixe e descompacte utilizando um programa compatível com essa extensão (.7z).
 2) Com o auxílio de um programa de clonagem de dados, copie o conteúdo do arquivo ISO para um pendrive.
