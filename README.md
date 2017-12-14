@@ -1,7 +1,7 @@
 ![GitHub Logo](http://www.ciceromoraes.com.br/ups/Linux3DCS_2.jpg)
 # Linux 3DCS
 
-Sistema Linux voltado ao uso da computação gráfica 3D para às áreas da saúde humana, veterinária e perícia.
+Sistema Linux voltado ao uso da computação gráfica 3D nas áreas da saúde humana, veterinária e perícia.
 
 ## Precedentes
 Trabalho com o Linux como principal sistema desde 2005. Nesse longo período tive a oportunidade de testar muitas distribuições e versões, desde as mais fáceis até as mais complexas, que demandam amplo conhecimento por parte do usuário para poder operá-las. 
