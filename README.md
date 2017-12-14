@@ -229,7 +229,7 @@ A imagem ISO de 5.9 GB foi comprimida em vários arquivos .7z:
 | **MEGA** | **Torrent** | **Download direto** |
 | ---- | ---- | ----|
 | [Arquivo 1 de 6](https://mega.nz/#!mJZCgIJa!0irfE7FoD1bLCWQIz865Xt6f2oe1vchXMrUyKEzE9Ac) |[Torrent file](www.ciceromoraes.com.br/downloads/Linux3DCS_2.iso.torrent)  | Em breve  |
-|[Arquivo 2 de 6](https://mega.nz/#!nVxB1JYA!z6VF8AAelc_S8e3Frf7JQ8QDxJJI9Zb6uqvxa4Q9CTA) | [Magnet Link](magnet:?xt=urn:btih:ee3eed5f80e9f62c125f2877edb392fd74a1d49b&dn=Linux3DCS%5F2.iso&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.torrent.to%3A2710%2Fannounce&tr=http%3A%2F%2Fdenis.stalker.h3q.com%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrent-downloads.to%3A2710%2Fannounce&tr=http%3A%2F%2Fwww.sumotracker.com%2Fannounce) |  |
+|[Arquivo 2 de 6](https://mega.nz/#!nVxB1JYA!z6VF8AAelc_S8e3Frf7JQ8QDxJJI9Zb6uqvxa4Q9CTA) | [Magnet Link](www.ciceromoraes.com.br/downloads/Linux3DCS_2-magnet.txt) |  |
 |[Arquivo 3 de 6](https://mega.nz/#!7UBTFDAD!QnBQOyks17kejlHc52JIPywpuIMI6RP9thTFV8fQ5gY) |  |  |
 |[Arquivo 4 de 6](https://mega.nz/#!HA5GmTIa!mAGYq7u0C-I3N-0uAfDATtouxHp7J5JB0GUgZzTeo08) |  |  |
 |[Arquivo 5 de 6](https://mega.nz/#!OZQzSI4C!XykjZpCAf422dVmMTFh6XMUFr6MGRQ7FrJ2Ag_40hx0) |  |  |
