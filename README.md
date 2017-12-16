@@ -145,6 +145,7 @@ Seguem abaixo os pacotes com a descrição e alternativas para o seu sistema:
 
 * #### **Dicom2Mesh** (compilado)
     + Reconstrução de tomografias computadorizadas (DICOM) em 3D, disponível em: https://github.com/AOT-AG/DicomToMesh
+    + Vesão compilada para o Windows 64 bit: https://drive.google.com/file/d/1b61hagsAUOce84u-XnqRVb1d3EmeGBU2/view?usp=sharing
     + Motivo: Permite o uso através de linha de comando, os resultados são excelentes, mesmo se comparados a sistemas com interface gráfica.
     + Roda em: Windows, MacOSX e Linux.
 
