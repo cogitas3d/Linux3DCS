@@ -146,7 +146,7 @@ Seguem abaixo os pacotes com a descrição e alternativas para o seu sistema:
 * #### **Dicom2Mesh** (compilado)
     + Reconstrução de tomografias computadorizadas (DICOM) em 3D, disponível em: https://github.com/AOT-AG/DicomToMesh
     + Motivo: Permite o uso através de linha de comando, os resultados são excelentes, mesmo se comparados a sistemas com interface gráfica.
-    + Roda em: MacOSX e Linux. Apresenta problema na compilação para o Windows.
+    + Roda em: Windows, MacOSX e Linux.
 
 * #### **Slicer**
     + Visualização e reconstrução 3D de tomografias computadorizadas, disponível em: http://download.slicer.org/
@@ -231,7 +231,7 @@ A imagem ISO de 5.9 GB foi comprimida em vários arquivos .7z:
 | [Arquivo 1 de 6](https://mega.nz/#!mJZCgIJa!0irfE7FoD1bLCWQIz865Xt6f2oe1vchXMrUyKEzE9Ac) | [Arquivo 1 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.001) | [Arquivo torrent](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.torrent) |
 |[Arquivo 2 de 6](https://mega.nz/#!nVxB1JYA!z6VF8AAelc_S8e3Frf7JQ8QDxJJI9Zb6uqvxa4Q9CTA) | [Arquivo 2 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.002) |
 |[Arquivo 3 de 6](https://mega.nz/#!7UBTFDAD!QnBQOyks17kejlHc52JIPywpuIMI6RP9thTFV8fQ5gY) | [Arquivo 3 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.003) | 
-|[Arquivo 4 de 6](https://mega.nz/#!HA5GmTIa!mAGYq7u0C-I3N-0uAfDATtouxHp7J5JB0GUgZzTeo08) | Em breve | 
+|[Arquivo 4 de 6](https://mega.nz/#!HA5GmTIa!mAGYq7u0C-I3N-0uAfDATtouxHp7J5JB0GUgZzTeo08) | [Arquivo 4 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.004) | 
 |[Arquivo 5 de 6](https://mega.nz/#!OZQzSI4C!XykjZpCAf422dVmMTFh6XMUFr6MGRQ7FrJ2Ag_40hx0) | Em breve |
 |[Arquivo 6 de 6](https://mega.nz/#!nMBFzBhQ!xCJbwQLibP5YORrc8ikYDe-xd_6hA7RT3OyL1UzAQ6I) | Em breve |
 
