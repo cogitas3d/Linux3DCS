@@ -233,7 +233,7 @@ A imagem ISO de 5.9 GB foi comprimida em vários arquivos .7z:
 |[Arquivo 3 de 6](https://mega.nz/#!7UBTFDAD!QnBQOyks17kejlHc52JIPywpuIMI6RP9thTFV8fQ5gY) | [Arquivo 3 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.003) | 
 |[Arquivo 4 de 6](https://mega.nz/#!HA5GmTIa!mAGYq7u0C-I3N-0uAfDATtouxHp7J5JB0GUgZzTeo08) | [Arquivo 4 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.004) | 
 |[Arquivo 5 de 6](https://mega.nz/#!OZQzSI4C!XykjZpCAf422dVmMTFh6XMUFr6MGRQ7FrJ2Ag_40hx0) | [Arquivo 5 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.005) |
-|[Arquivo 6 de 6](https://mega.nz/#!nMBFzBhQ!xCJbwQLibP5YORrc8ikYDe-xd_6hA7RT3OyL1UzAQ6I) | Em breve |
+|[Arquivo 6 de 6](https://mega.nz/#!nMBFzBhQ!xCJbwQLibP5YORrc8ikYDe-xd_6hA7RT3OyL1UzAQ6I) | [Arquivo 6 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.006) |
 
 1) Baixe e descompacte utilizando um programa compatível com essa extensão (.7z).
 2) Com o auxílio de um programa de clonagem de dados, copie o conteúdo do arquivo ISO para um pendrive.
