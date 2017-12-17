@@ -236,9 +236,20 @@ A imagem ISO de 5.9 GB foi comprimida em vários arquivos .7z:
 |[Arquivo 5 de 6](https://mega.nz/#!OZQzSI4C!XykjZpCAf422dVmMTFh6XMUFr6MGRQ7FrJ2Ag_40hx0) | [Arquivo 5 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.005) |
 |[Arquivo 6 de 6](https://mega.nz/#!nMBFzBhQ!xCJbwQLibP5YORrc8ikYDe-xd_6hA7RT3OyL1UzAQ6I) | [Arquivo 6 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.006) |
 
+## Como rodar
+
+A forma padrão de rodar a distro é cloná-la em um pendrive. Perceba que clonar é diferente de copiar. Os passos são os seguintes:
+
 1) Baixe e descompacte utilizando um programa compatível com essa extensão (.7z).
 2) Com o auxílio de um programa de clonagem de dados, copie o conteúdo do arquivo ISO para um pendrive.
 3) Configure a BIOS do seu computador para fazer o boot em modo legacy e coloque o pendrive como primeiro elemento na ordem de inicialização.
+
+Há relatos de dificuldades para montar a imagem no Windows, isso acontece por que se trata de um sistema instalado no formato de arquivo ext4 que não é reconhecido por aquele sistema operacional. No entanto, existem algumas formas de se contornar isso:
+
+1) Você pode rodar ele em uma máquina virtual, para isso criei um tutorial passo-a-passo: https://docs.google.com/document/d/1tvdzRvb6ZHxh0Zf41rkgsvU72RogCFmAt8Zt3I4dCAQ/edit?usp=sharing
+2) Você pode baixar um Linux livecd e clonar a imagem a partir dele usando o comando *$ sudo dd if=Linux3DCS_2.iso of=DISPOSITIVO_DE_DESTINO*.
+3) Você pode pedir para um(a) amigo(a) que entende de Linux para fazer isso para você.
+4) Eu posso clonar uma imagem para você em um pendrive e e enviar por email (custo do pendrive + custo do envio + R$ 50,00).
 
 ## Materiais disponíveis
 
