@@ -244,12 +244,12 @@ A forma padrão de rodar a distro é cloná-la em um pendrive. Perceba que clona
 2) Com o auxílio de um programa de clonagem de dados, copie o conteúdo do arquivo ISO para um pendrive.
 3) Configure a BIOS do seu computador para fazer o boot em modo legacy e coloque o pendrive como primeiro elemento na ordem de inicialização.
 
-Há relatos de dificuldades para montar a imagem no Windows, isso acontece por que se trata de um sistema instalado no formato de arquivo ext4 que não é reconhecido por aquele sistema operacional. No entanto, existem algumas formas de se contornar isso:
-
-1) Você pode rodar ele em uma máquina virtual, para isso criei um tutorial passo-a-passo: https://docs.google.com/document/d/1tvdzRvb6ZHxh0Zf41rkgsvU72RogCFmAt8Zt3I4dCAQ/edit?usp=sharing
-2) Você pode baixar um Linux livecd e clonar a imagem a partir dele usando o comando *$ sudo dd if=Linux3DCS_2.iso of=DISPOSITIVO_DE_DESTINO*.
-3) Você pode pedir para um(a) amigo(a) que entende de Linux para fazer isso para você.
-4) Eu posso clonar uma imagem para você em um pendrive e e enviar por email (custo do pendrive + custo do envio + R$ 50,00).
+Tutoriais e possibilidades:
+1) Você pode seguir o tutorial feito pelo usuário Adriano Rocha Campos, "**Criando um pendrive bootável pelo MacOS, Windows e Linux**": https://goo.gl/Co6c4A
+2) Você pode rodar ele em uma máquina virtual, para isso criei um tutorial passo-a-passo: https://docs.google.com/document/d/1tvdzRvb6ZHxh0Zf41rkgsvU72RogCFmAt8Zt3I4dCAQ/edit?usp=sharing
+3) Você pode baixar um Linux livecd e clonar a imagem a partir dele usando o comando *$ sudo dd if=Linux3DCS_2.iso of=DISPOSITIVO_DE_DESTINO*.
+4) Você pode pedir para um(a) amigo(a) que entende de Linux para fazer isso para você.
+5) Eu posso clonar uma imagem para você em um pendrive e e enviar por email (custo do pendrive + custo do envio + R$ 50,00).
 
 ## Materiais disponíveis
 
@@ -272,3 +272,5 @@ Além dos programas compilados e dos addons desenvolvidos pelas equipes, você e
 * ##### **TEMPLATE_completo.blend**
     + Arquivo utilizado para o planejamento de cirurgia ortognática contendo os modelos de todo o processo.
 
+### Agradecimentos
+Everton da Rosa, Rodrigo Dornelles, Pablo Maricevich, Graziane Olimpio e Adriano Rocha Campos.
