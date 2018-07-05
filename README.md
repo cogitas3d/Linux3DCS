@@ -224,32 +224,9 @@ Roda em: Windows, MacOSX e Linux.
     + Motivo: Ativa a possibilidade de compactar e descompactar arquivos diretamente pelo Nautilus.
     + Escolha a sua opção de descompactador para Windows e MacOSX, dentre as várias disponíveis ne internet.
 
-## Como baixar
-A imagem ISO de 5.9 GB foi comprimida em vários arquivos .7z:
+## Como baixar e rodar
 
-| **MEGA** | **Download direto** | **Torrent** |
-| ---- | ---- | ---- |
-| [Arquivo 1 de 6](https://mega.nz/#!mJZCgIJa!0irfE7FoD1bLCWQIz865Xt6f2oe1vchXMrUyKEzE9Ac) | [Arquivo 1 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.001) | [Arquivo torrent](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.torrent) |
-|[Arquivo 2 de 6](https://mega.nz/#!nVxB1JYA!z6VF8AAelc_S8e3Frf7JQ8QDxJJI9Zb6uqvxa4Q9CTA) | [Arquivo 2 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.002) |
-|[Arquivo 3 de 6](https://mega.nz/#!7UBTFDAD!QnBQOyks17kejlHc52JIPywpuIMI6RP9thTFV8fQ5gY) | [Arquivo 3 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.003) | 
-|[Arquivo 4 de 6](https://mega.nz/#!HA5GmTIa!mAGYq7u0C-I3N-0uAfDATtouxHp7J5JB0GUgZzTeo08) | [Arquivo 4 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.004) | 
-|[Arquivo 5 de 6](https://mega.nz/#!OZQzSI4C!XykjZpCAf422dVmMTFh6XMUFr6MGRQ7FrJ2Ag_40hx0) | [Arquivo 5 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.005) |
-|[Arquivo 6 de 6](https://mega.nz/#!nMBFzBhQ!xCJbwQLibP5YORrc8ikYDe-xd_6hA7RT3OyL1UzAQ6I) | [Arquivo 6 de 6](http://www.ciceromoraes.com.br/downloads/Linux3DCS/Linux3DCS_2.7z.006) |
-
-## Como rodar
-
-A forma padrão de rodar a distro é cloná-la em um pendrive. Perceba que clonar é diferente de copiar. Os passos são os seguintes:
-
-1) Baixe e descompacte utilizando um programa compatível com essa extensão (.7z).
-2) Com o auxílio de um programa de clonagem de dados, copie o conteúdo do arquivo ISO para um pendrive.
-3) Configure a BIOS do seu computador para fazer o boot em modo legacy e coloque o pendrive como primeiro elemento na ordem de inicialização.
-
-Tutoriais e possibilidades:
-1) Você pode seguir o tutorial feito pelo usuário Adriano Rocha Campos, "**Criando um pendrive bootável pelo MacOS, Windows e Linux**": https://goo.gl/Co6c4A
-2) Você pode rodar ele em uma máquina virtual, para isso criei um tutorial passo-a-passo: https://docs.google.com/document/d/1tvdzRvb6ZHxh0Zf41rkgsvU72RogCFmAt8Zt3I4dCAQ/edit?usp=sharing
-3) Você pode baixar um Linux livecd e clonar a imagem a partir dele usando o comando *$ sudo dd if=Linux3DCS_2.iso of=DISPOSITIVO_DE_DESTINO*.
-4) Você pode pedir para um(a) amigo(a) que entende de Linux para fazer isso para você.
-5) Eu posso clonar uma imagem para você em um pendrive e e enviar por email (custo do pendrive + custo do envio + R$ 50,00).
+Siga o tutorial: http://www.ciceromoraes.com.br/doc/pt_br/OrtogOnBlender/Instalacao_Linux3DCS.html
 
 ## Materiais disponíveis
 
